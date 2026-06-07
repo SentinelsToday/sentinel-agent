@@ -5,8 +5,8 @@ edition = "2021"
 license = "Apache-2.0"
 repository = "https://github.com/Sentinels-Today/sentinel-agent"
 homepage = "https://sentinels.today"
-authors = ["Sentinel Labs <admin@sentinels.today>"]
-description = "On-device daemon for Sentinel Labs: device identity, signed telemetry, attestation."
+authors = ["Sentinels <admin@sentinels.today>"]
+description = "On-device daemon for Sentinels: device identity, signed telemetry, attestation."
 rust-version = "1.75"
 readme = "README.md"
 

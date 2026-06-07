@@ -1,6 +1,6 @@
 # sentinel-agent
 
-**On-device daemon for Sentinel Labs.** Rust library + CLI that generates and persists an Ed25519 device identity, signs attestation claims with a canonical-JSON digest (wire-compatible with [`sentinel-core`](https://github.com/Sentinels-Today/sentinel-core)), and talks to [`sentinel-cloud`](https://github.com/Sentinels-Today/sentinel-cloud).
+**On-device daemon for Sentinels.** Rust library + CLI that generates and persists an Ed25519 device identity, signs attestation claims with a canonical-JSON digest (wire-compatible with [`sentinel-core`](https://github.com/Sentinels-Today/sentinel-core)), and talks to [`sentinel-cloud`](https://github.com/Sentinels-Today/sentinel-cloud).
 
 [![ci](https://github.com/Sentinels-Today/sentinel-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Sentinels-Today/sentinel-agent/actions/workflows/ci.yml)
 ![license](https://img.shields.io/badge/license-Apache--2.0-blue)

@@ -7,7 +7,7 @@ use sentinel_agent::{AgentClient, Claim, ClaimBody, ClaimKind, DeviceIdentity};
 #[command(
     name = "sentinel-agent",
     version,
-    about = "Sentinel Labs on-device daemon"
+    about = "Sentinels on-device daemon"
 )]
 struct Cli {
     /// Path to the device key file.
